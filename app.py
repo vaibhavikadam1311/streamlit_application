@@ -27,6 +27,3 @@ elif not apikey:
 with st.sidebar:
     st.write("About me")
     st.image("cutie-cat.gif")
-    st.write("My [GitHub](https://github.com/PratikPhysics)")
-    st.write("My [Linkedin](https://www.linkedin.com/in/pratik-ramteke-21573317a/)")
-    st.write("My [YouTube](https://www.youtube.com/@pratikgizmo6436)") 
