@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: streamlit
-        image: vaibhavi1311/streamlit_app
+        image: vaibhavi1311/streamlit-app
         ports:
         - containerPort: 8501
 
